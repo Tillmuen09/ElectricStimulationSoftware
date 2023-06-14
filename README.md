@@ -15,7 +15,7 @@ This is a graphical user interface (GUI) for controlling analog output stimulati
 1. Make sure you have Python installed on your system.
 2. Install the required packages by running the following command:
    ```
-   pip install PySimpleGUI nidaqmx numpy matplotlib
+   pip install PySimpleGUI nidaqmx numpy matplotlib configparser
    ```
 
 ## Usage
