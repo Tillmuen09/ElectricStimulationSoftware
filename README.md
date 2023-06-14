@@ -21,7 +21,7 @@ This is a graphical user interface (GUI) for controlling analog output stimulati
 ## Usage
 
 ### Application example
-- Start the software
+- Start the software by running main.py
 - Select device and channel 
 - Generate the pulse you want to apply:
   - Click Generate simple pulse. A new window will appear.
